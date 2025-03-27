@@ -14,7 +14,7 @@ params:
   showCodeCopyButtons: true
   homeInfoParams:
     title: Hallo, ich bin Tabea
-    content: Ich teile meine Erfahrungen und Gedanken zu meinem Arbeitsaltag als Scrum Masterin
+    content: Ich teile meine Erfahrungen und Gedanken zu meinem Arbeitsalltag als Scrum Masterin
 
   socialIcons:
     - name: LinkedIn
